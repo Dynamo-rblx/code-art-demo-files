@@ -1,3 +1,7 @@
+-- @ScriptType: Script
+-- @RunContext: 0
+-- yo yo yo!
+-- or should I say yo ho ho...
 --[[c1]]--[[c2]]--[[c3]]--[[c4]]--[[c5]]--[[c6]]--[[c7]]--[[c8]]local Selection=game:GetService("Selection")local ScriptEditorService=game:GetService("ScriptEditorService")local Fitter=require(script.
 Fitter)local ImageSource=require(script.ImageSource)local Backup=require(script.Backup)local Equiv=require(script.Equiv)--[[c9]]local VERSION="0.2.0"local HELP_SEEN_KEY="CodeArt_SeenHelp"--[[c10]]local
 MAX_COLS=400 local FEATURES_MIN_COLS=32--[[ Leonardo, from facehole results]]local toolbar=plugin:CreateToolbar("Code Art")local button=toolbar:CreateButton("CodeArt","Code Art v"..VERSION..--[[######]]
